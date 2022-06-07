@@ -8,7 +8,7 @@ Install Laravel 8
 
 - Masuk ke Command Prompt
 
-![image-20220607185419268](C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20220607185419268.png)
+![1](https://user-images.githubusercontent.com/94977405/172385477-437188d3-c65e-44bf-b563-9c86c9845251.png)
 
 - Masuk ke folder XAMPP
 
@@ -16,7 +16,7 @@ Install Laravel 8
   cd \xampp\htdocs
   ```
 
-  ![image-20220607185838890](C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20220607185838890.png)
+  ![2](https://user-images.githubusercontent.com/94977405/172385599-4a4e4a0d-2d76-40b3-9a6c-c4a171ecbca4.png)
 
 - Install Laravel dengan perintah berikut ("integratif" sebagai nama file)
 
@@ -24,11 +24,11 @@ Install Laravel 8
   composer create-project --prefer-dist laravel/laravel integratif
   ```
 
-   ![image-20220607190049298](C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20220607190049298.png)
+  ![3](https://user-images.githubusercontent.com/94977405/172385668-bf607dcf-956c-485e-81a0-1a76b8ea9f49.png)
 
 - Cek instalasi Laravel di file explorer dengan nama "integratif"
 
-  ![image-20220607190256019](C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20220607190256019.png)
+  ![4](https://user-images.githubusercontent.com/94977405/172385711-23ee6e09-9e89-47be-8de0-b6d229714006.png)
 
 - Kemudian cek instalasi Laravel dengan perintah
 
@@ -36,7 +36,7 @@ Install Laravel 8
   php artisan serve
   ```
 
-  ![image-20220607192612055](C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20220607192612055.png)
+  ![5](https://user-images.githubusercontent.com/94977405/172385945-ef381a01-24d5-4e21-8c4e-b0fe3d214958.png)
 
 - Kemudian cek di web dengan memasukkan
 
@@ -44,4 +44,4 @@ Install Laravel 8
   http://127.0.0:8000
   ```
 
-  ![image-20220607192909368](C:\Users\axel\AppData\Roaming\Typora\typora-user-images\image-20220607192909368.png)
+  ![6](https://user-images.githubusercontent.com/94977405/172385977-4a8bf2c5-34bb-4686-b83d-e68a25b12bda.png)
